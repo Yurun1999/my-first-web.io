@@ -3,7 +3,9 @@
 >*This is just for fun*>
 
 ### 可爱的标志
-
-
+<tr>
+<p>人人都会喜欢的</p>
+<hr size = 20%>
+ <center><img src="IMG_20180907_120540.jpg"width=50% height=60%></center>
+</tr>
  
-![Alt](图片链接 "IMG_20180907_120540.jpg")
